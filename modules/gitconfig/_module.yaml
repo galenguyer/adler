@@ -1,0 +1,4 @@
+file:
+  name: gitconfig
+  type: user
+  path: .gitconfig
